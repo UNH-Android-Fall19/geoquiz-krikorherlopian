@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="message">Nikola Tesla invented the Tesla coil in 1891</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="clicked_true_button">Clicked true button</string>
+    <string name="clicked_false_button">Clicked false button</string>
+</resources>
